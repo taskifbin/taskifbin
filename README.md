@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A passionate computer science student with a knack for problem-solving and a love for all things tech. Whether I'm diving into algorithms, building sleek user interfaces, or exploring the latest trends in artificial intelligence, I'm always eager to expand my knowledge and sharpen my coding skills. With a keen interest in software development and a drive to make an impact in the digital world, I'm on a mission to learn, grow, and make a difference through technology.
+A passionate computer science student with a knack for problem-solving and a love for all things tech. I'm always eager to expand my knowledge and sharpen my coding skills. I'm on a mission to learn, grow, and make a difference through technology.
 
 - 🌱 I’m currently learning C language.
 - 📫 How to reach me: Drop a message on github
