@@ -20,4 +20,4 @@ A passionate computer science student with a knack for problem-solving and a lov
 - 🌱 I’m currently learning C language.
 - 📫 How to reach me: Drop a message on github
 
-   Let's write some groundbreaking code and embark on this exciting journey together! 💻✨
+Let's write some groundbreaking code and embark on this exciting journey together! 💻✨
