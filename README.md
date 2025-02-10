@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 A passionate computer science student with a knack for problem-solving and a love for all things tech. I'm always eager to expand my knowledge and sharpen my coding skills. I'm on a mission to learn, grow, and make a difference through technology.
 
-- 🌱 I’m currently learning C/C++ language.
+- 🌱 I’m currently learning C/C++,JAVA language.
+- Working on Web Development
 - 📫 How to reach me: Drop a message on github or Discord
 
 Let's write some groundbreaking code and embark on this exciting journey together! 💻✨
