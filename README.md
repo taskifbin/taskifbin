@@ -42,6 +42,8 @@ Let's write some groundbreaking code and embark on this exciting journey togethe
 <a href="https://www.facebook.com/taskifbin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/taskifbin/MiscellaneousRandom/ffb47eb6879b5e28b9d6389b03500714119a0c38/icons/facebook.svg" alt="taskifbin" height="30" width="40" /></a>
 <a href="https://x.com/taskifbin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/taskifbin/MiscellaneousRandom/ffb47eb6879b5e28b9d6389b03500714119a0c38/icons/x.svg" alt="taskifbin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/taskifbin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/taskifbin/MiscellaneousRandom/ffb47eb6879b5e28b9d6389b03500714119a0c38/icons/instagram.svg" alt="taskifbin" height="30" width="40" /></a>
+<a href="https://discord.com/users/829231708871458848/" target="blank"><img align="center" src="https://raw.githubusercontent.com/taskifbin/MiscellaneousRandom/c991399407874cb109242c33fcde0dcef11c602e/icons/discord.svg" alt="taskifbin" height="30" width="40" /></a>
+<a href="mailto:taskifbin@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/taskifbin/MiscellaneousRandom/c991399407874cb109242c33fcde0dcef11c602e/icons/gmail.svg" alt="taskifbin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/taskifbin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/taskifbin/MiscellaneousRandom/54956d1b04ebf071ac814e86a3531af8ee56224b/icons/linkedin.svg" alt="taskifbin" height="30" width="40" /></a>
 </p>
 
